@@ -1,7 +1,7 @@
-# Parts of NYC I Have Explored
+# Exploring NYC
 
-Here is a map visualization of the places I have visited in NYC over time. The areas shaded in green have been visited. I really have only seen the tip of the iceberg.
+Here is a map of the places I have visited in NYC (in green) tracked over time using git. I really have only seen the tip of the iceberg.
 
-![Map]('./Parts of NYC I Have Explored.png')
+![Map](./Map.png)
 
 
